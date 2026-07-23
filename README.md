@@ -33,9 +33,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaSafarpour&layout=compact&theme=radical" alt="HamidrezaSafarpour" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamidrezaSafarpour&show_icons=true&theme=radical" alt="HamidrezaSafarpour" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=HamidrezaSafarpour&show_icons=true&theme=radical&cache_seconds=0"
+/>
+<br/><br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaSafarpour&layout=compact&theme=radical&cache_seconds=0"
+/>
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamidrezaSafarpour&theme=radical" alt="HamidrezaSafarpour" />
 </p>
